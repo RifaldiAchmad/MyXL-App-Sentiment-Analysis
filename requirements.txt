@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+sastrawi
+wordcloud
+scikit-learn
+google-play-scraper
+scikit-learn
+transformers
+torch

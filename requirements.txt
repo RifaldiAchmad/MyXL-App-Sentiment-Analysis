@@ -6,4 +6,3 @@ nltk
 sastrawi
 scikit-learn
 google-play-scraper
-scikit-learn
